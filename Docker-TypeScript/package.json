@@ -11,7 +11,7 @@
   "devDependencies": {
     "@types/node": "^6.0.50",
     "typescript": "^2.3.2",
-    "nodemon": "^1.11.0"
+    "nodemon": "^3.1.14"
   },
   "main": "./dist/index.js"
 }
